@@ -27,7 +27,9 @@
     "hubot":         ">= 2.5.1",
     "hubot-scripts": ">= 2.4.2",
     "cleverbot-node": "0.1.1",
-    "cheerio": ""
+    "cheerio": "",
+    "htmlparser": "1.7.6",
+    "soupselect": "0.2.0"
   },
 
   "engines": {
